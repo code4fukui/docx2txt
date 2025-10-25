@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "remote": {
+    "https://js.sabae.cc/dir2array.js": "976fe9f0fe98b744b2d47f0a200e10b7272ae086e602886997e1b37f23e7271e"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:mammoth@^1.11.0"
+      ]
+    }
+  }
+}
