@@ -1,13 +1,17 @@
 # docx2txt
 
-converter from docx2 to txt with Node.js and Deno
+Converter from DOCX to TXT using Node.js and Deno.
 
-## usage
+## Usage
 
 ```sh
 deno -A docx2txt_r.js [path of data]
 ```
 
-## depndencies
+## Dependencies
 
 - [mammoth](https://www.npmjs.com/package/mammoth)
+
+## License
+
+MIT License
