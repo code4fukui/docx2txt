@@ -1,5 +1,7 @@
 # docx2txt
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Converter from DOCX to TXT using Node.js and Deno.
 
 ## Usage
