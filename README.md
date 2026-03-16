@@ -16,4 +16,4 @@ deno -A docx2txt_r.js [path of data]
 
 ## License
 
-MIT License
+MIT License — see [LICENSE](LICENSE).
